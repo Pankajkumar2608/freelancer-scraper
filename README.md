@@ -58,5 +58,5 @@ A simple Python application that retrieves *AI-related* project listings from Fr
 - For local development, you can set the environment variable `FREELANCER_OAUTH_TOKEN`.
 - In production, use a secure secrets manager (e.g., AWS Secrets Manager, Vault).
 
-## Sample CSV Snippet
+
 
